@@ -11,3 +11,6 @@ this would help in knowing the latest changes that have been stored at the remot
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without github you can collaborate by emails. But it would be difficult to note the changes as GitHub marks all the additions and 
 deletions for you automatically. Moreover you can switch to an earlier version of the code with ease.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+While adding a new feature to the code or making big modifications in the code.
